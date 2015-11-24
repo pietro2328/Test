@@ -1,0 +1,45 @@
+{
+  "ProjectName": "MyFirstApp",
+  "ProjectGuid": "76b08715-8d3d-45bd-be9c-926245ab22e6",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MyFirstApp",
+  "DisplayName": "MyFirstApp",
+  "Author": "",
+  "Description": "MyFirstApp",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{144fb28d-7625-4e10-bdfd-fa8def82c94d}",
+  "WP8ProductID": "{aa0687a8-0e48-4cf3-be77-8ad2f33a106e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.MyFirstApp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
